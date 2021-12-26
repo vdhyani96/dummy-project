@@ -5,4 +5,5 @@ if __name__ == "__main__":
 	for i in range(size, 0, -1):
 		print(i)
 	
-	print("Finished Printing, thanks for coming!")
+	print("Finished Printing!")
+	print("This is the second commit")
